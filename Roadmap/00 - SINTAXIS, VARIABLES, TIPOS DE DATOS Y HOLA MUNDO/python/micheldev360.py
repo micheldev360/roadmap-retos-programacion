@@ -50,6 +50,10 @@ my_string = "Mi cadena de texto"
 my_other_string= 'Mi otra cadena de texto'
 # Esto es lo que vimos al principio, se puede con comillas simples o dobles, pero nunca las dos juntas.
 
+# Para imprimir texto por consola en python parentesis y comillas
+
+print("¡Hola, python!")
+
 
 
 
